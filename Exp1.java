@@ -1,9 +1,10 @@
-class Exp1
+class pgm2
 {
 	public static void main(String s[])
 	{
-		int a=60,b=78,c;
-		c=a+b;
-		System.out.println("c="+C);
+		int a=10;
+		int b=20;
+		int c=a-b;
+		System.out.println("sub=",+c);
 	}
 }
